@@ -1,0 +1,112 @@
+{
+	"editor.fontLigatures": true,
+	"editor.lineHeight": 20,
+	//Theme
+
+	"workbench.iconTheme": "material-icon-theme",
+	"material-icon-theme.opacity": 1,
+	"workbench.colorTheme": "CodeSandbox Black",
+	"editor.tabSize": 2,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"workbench.startupEditor": "none",
+	"window.commandCenter": false,
+	"workbench.layoutControl.enabled": false,
+	"editor.minimap.enabled": false,
+	"editor.minimap.autohide": true,
+	"breadcrumbs.enabled": false,
+	"editor.dragAndDrop": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.lineDecorationsWidth": 0,
+	"editor.glyphMargin": false,
+	"editor.smoothScrolling": false,
+	"workbench.colorCustomizations": {
+		"editor.background": "#0a0a0a",
+		"tab.border": "#0a0a0a",
+		"tab.activeBorder": "#b3b3b3",
+		"editor.lineHighlightBackground": "#ffffff04",
+		"editor.lineHighlightBorder": "#ff000000",
+		"editor.foldBackground": "#ff000000",
+		"statusBar.background": "#0a0a0a",
+		"sideBar.background": "#0a0a0a",
+		"titleBar.activeBackground": "#0a0a0a",
+		"tab.activeBackground": "#0a0a0a",
+		"tab.inactiveBackground": "#0a0a0a",
+		"activityBar.background": "#0a0a0a",
+		"editor.selectionBackground": "#0d59f068",
+		"editorCursor.foreground": "#ffffff",
+		"editorGroupHeader.tabsBackground": "#0a0a0a",
+		"terminal.background": "#0a0a0a",
+		"editorLineNumber.activeForeground": "#7c7c7c",
+		"editorLineNumber.foreground": "#2e2e2e",
+		"titleBar.border": "#0a0a0a",
+		"sideBar.border": "#0a0a0a",
+		"statusBar.border": "#0a0a0a",
+		"scrollbar.shadow": "#00000000",
+		"editorGutter.background": "#0a0a0a"
+	},
+
+	"explorer.confirmDragAndDrop": false,
+	"polacode.backgroundColor": "#0a0a0a00",
+	"explorer.confirmDelete": false,
+	"editor.accessibilitySupport": "off",
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"svgPreview.style": {
+		"html": {
+			"background-color": "#aaa"
+		}
+	},
+	"svgPreview.autoOpen": false,
+	"editor.renderWhitespace": "none",
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.autoClosingDelete": "always",
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.lightbulb.enabled": false,
+	"files.autoGuessEncoding": true,
+	"workbench.commandPalette.history": 500,
+	"workbench.tips.enabled": false,
+	"material-icon-theme.activeIconPack": "react",
+	"indentRainbow.colorOnWhiteSpaceOnly": true,
+	"terminal.integrated.fontFamily": "Monocraft",
+	"scm.diffDecorations": "none",
+	"editor.fontFamily": "JetBrains Mono NL Medium",
+	"files.exclude": {
+		"**/.angular": true,
+		"**/.git": false,
+		"**/.next": true,
+		"**/.vscode": true,
+		"**/node_modules": true,
+		"**/sitemap": true,
+		"**/ssl": true
+	},
+	"editor.inlineSuggest.enabled": true,
+	"vscord.status.state.text.viewing": "{LANG}",
+	"vscord.status.details.text.editing": "{LANG}",
+	"vscord.status.idle.check": false,
+	"vscord.status.idle.enabled": false,
+	"vscord.status.idle.timeout": 10000,
+	"vscord.status.details.text.debugging": "{LANG}",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"github.copilot.enable": {
+		"*": false,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": false
+	},
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	// /Prettier --start--
+	"prettier.bracketSpacing": false,
+	"prettier.bracketSameLine": true,
+	"prettier.singleAttributePerLine": false,
+	"prettier.semi": false,
+	"prettier.printWidth": 120,
+	"prettier.useTabs": true,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"window.zoomLevel": -1
+	// Prettier --end--
+}
